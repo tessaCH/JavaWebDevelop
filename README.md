@@ -17,7 +17,7 @@
   * MyBatis Framework 
  
  ### Generated Zip
- [Link of the Zip](https://github.com/tessaCH/JavaWebDevelop/blob/master/jwdnd.zip) 
+ [Link of the Zip](https://github.com/tessaCH/JavaWebDevelop/blob/master/ProjectOne.zip) 
  
 ## Screenshot of Spring initializr
 ![SpringInitializr](https://github.com/tessaCH/JavaWebDevelop/blob/master/SpringInitializr.png)
