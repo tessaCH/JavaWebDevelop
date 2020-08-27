@@ -15,5 +15,6 @@
   * Spring Security
   * H2 Database
   * MyBatis Framework 
-  
+ 
+## Screenshot of Spring initializr
 ![SpringInitializr](https://github.com/tessaCH/JavaWebDevelop/blob/master/SpringInitializr.png)
